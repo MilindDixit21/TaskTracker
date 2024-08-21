@@ -24,7 +24,7 @@ export class HeaderComponent implements OnInit{
   
 
   toggleAddTask(){
-    this.uiService.toggleAddTask();
+    this.uiService.toggleAddTask(); 
   }
 
 }
