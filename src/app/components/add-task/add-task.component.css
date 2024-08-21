@@ -1,3 +1,6 @@
 .add-form{
     margin-bottom: 40px;
+    padding: 10px;
+    outline: 1px solid #cccccc;
+    outline-offset: 2px;
 }
